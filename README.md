@@ -1,2 +1,1 @@
-# Java-Application
-Manager Borrows Books + NoSQL MongoDB
+Java Application - NoSQL MongoDB
